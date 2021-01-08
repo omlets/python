@@ -1,0 +1,3 @@
+# This is a simple program for multiple ssh-key generation.
+# Folder name:        Server IP:        Username:           Password:
+hostname.domain       192.168.0.1       -                   -
